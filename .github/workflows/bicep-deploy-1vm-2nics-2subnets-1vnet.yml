@@ -1,4 +1,4 @@
-name: 'BicepDeploy with Azure CLI'
+name: 'BicepDeploy with Azure CLI for VM'
 
 on:
   push:
