@@ -2,11 +2,11 @@
 param virtualMachineSize string = 'Standard_DS1_v2'
 
 @description('Default Admin username')
-param adminUsername string
+param adminUsername string = 'mebisuda'
 
 @description('Default Admin password')
 @secure()
-param adminPassword string
+param adminPassword string = 'AzurenoP@ssw0rd'
 
 @description('Storage Account type for the VM and VM diagnostic storage')
 @allowed([
