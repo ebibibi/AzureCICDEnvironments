@@ -1,3 +1,7 @@
+# このレポジトリについて
+
+このレポジトリは https://github.com/hoisjp/vscode-remote-try-bicep を元にしています。BicepでのAzureへのCICDのテストをしています。
+
 # Bicep Authoring Devcontainer
 
 This is a simple devcontainer which can be used with CodeSpaces or VSCode Remote to get all the tooling needed to start authoring bicep. 
